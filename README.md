@@ -16,5 +16,5 @@ A clean, responsive portfolio website for Ravikiran, showcasing his experience, 
 5. Enable GitHub Pages in your repo settings
 
 ## 🌐 Live Demo
-Hosted via GitHub Pages: [https://yourusername.github.io/ravikiran-portfolio](https://yourusername.github.io/ravikiran-portfolio)
+Hosted via GitHub Pages: [https://ravi-kiran-dev.github.io/Portfolio/](https://ravi-kiran-dev.github.io/Portfolio/)
 
